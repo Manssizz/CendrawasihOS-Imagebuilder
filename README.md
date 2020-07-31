@@ -33,4 +33,4 @@ $ cd CendrawasihOS
 - [ ] Fixing GPIO
 
 ## License
-***CendrawasihOS use [GPL-3.0 License](LICENSE).
+**CendrawasihOS use [GPL-3.0 License](LICENSE).**
