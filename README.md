@@ -7,10 +7,10 @@ I prefer build this project based Openwrt 18. because most of my device using MT
 - Bolt BL401 (Porting from ASUS RT N14U)= MT7620N SoC
 
 ## Feature
-[x] This source is Imagebuilder image, you can costumize whatever package do you incuding
-[x] Build in many repositories ([Openwrt](https://github.com/openwrt/openwrt), [Lienol](https://github.com/Lienol/openwrt-package), [OUI GUI][https://github.com/zhaojh329/oui])
-[x] Build in U-Boot recovery adopting [U-Boot](https://github.com/u-boot/u-boot) Source
-[x] Build in wpad, curl and ca-bundle for autologin wifi corner based wpa2 peap security and landing page login
+- [x] This source is Imagebuilder image, you can costumize whatever package do you incuding
+- [x] Build in many repositories ([Openwrt](https://github.com/openwrt/openwrt), [Lienol](https://github.com/Lienol/openwrt-package), [OUI GUI][https://github.com/zhaojh329/oui])
+- [x] Build in U-Boot recovery adopting [U-Boot](https://github.com/u-boot/u-boot) Source
+- [x] Build in wpad, curl and ca-bundle for autologin wifi corner based wpa2 peap security and landing page login
 
 ## How do u use?
 ### There have a two way.
@@ -27,10 +27,10 @@ $ cd CendrawasihOS
 - Then flash it with sysupgrade or upload from luci GUI
 
 ## To Do
-[] Support many SoC
-[] Support based Openwrt 19
-[] Adding luci interface for autologin
-[] Fixing GPIO
+- [ ] Support many SoC
+- [ ] Support based Openwrt 19
+- [ ] Adding luci interface for autologin
+- [ ] Fixing GPIO
 
 ## License
-CendrawasihOS use [GPL-3.0 License](LICENSE).
+***CendrawasihOS use [GPL-3.0 License](LICENSE).
