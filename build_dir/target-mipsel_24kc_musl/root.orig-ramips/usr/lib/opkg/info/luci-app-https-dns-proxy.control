@@ -1,0 +1,10 @@
+Package: luci-app-https-dns-proxy
+Version: git-20.201.64093-23f30cf-9
+Depends: libc, luci-compat, luci-mod-admin-full, https-dns-proxy
+Source: feeds/luci/applications/luci-app-https-dns-proxy
+License: GPL-3.0-or-later
+Section: luci
+Maintainer: Stan Grishin <stangri@melmac.net>
+Architecture: all
+Installed-Size: 6082
+Description:  Provides Web UI for DNS Over HTTPS Proxy

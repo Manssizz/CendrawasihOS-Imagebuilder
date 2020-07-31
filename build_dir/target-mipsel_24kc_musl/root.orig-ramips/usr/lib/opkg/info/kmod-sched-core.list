@@ -1,0 +1,13 @@
+/lib/modules/4.14.187/em_u32.ko
+/lib/modules/4.14.187/sch_hfsc.ko
+/lib/modules/4.14.187/cls_u32.ko
+/lib/modules/4.14.187/cls_flow.ko
+/etc/modules.d/70-sched-core
+/lib/modules/4.14.187/sch_ingress.ko
+/lib/modules/4.14.187/act_skbedit.ko
+/lib/modules/4.14.187/cls_fw.ko
+/lib/modules/4.14.187/cls_route.ko
+/lib/modules/4.14.187/cls_tcindex.ko
+/lib/modules/4.14.187/sch_tbf.ko
+/lib/modules/4.14.187/sch_htb.ko
+/lib/modules/4.14.187/act_mirred.ko

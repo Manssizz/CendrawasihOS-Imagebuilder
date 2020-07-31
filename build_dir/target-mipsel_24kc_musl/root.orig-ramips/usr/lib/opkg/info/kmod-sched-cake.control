@@ -1,0 +1,9 @@
+Package: kmod-sched-cake
+Version: 4.14.187+2019-01-08-331ac70c-1
+Depends: kernel (=4.14.187-1-79da3b94c75b2e6f397b312bb3405622), kmod-ipt-conntrack
+Source: package/kernel/kmod-sched-cake
+Section: kernel
+Maintainer: Kevin Darbyshire-Bryant <ldir@darbyshire-bryant.me.uk>
+Architecture: mipsel_24kc
+Installed-Size: 16060
+Description:  Common Applications Kept Enhanced fq_codel/blue derived shaper

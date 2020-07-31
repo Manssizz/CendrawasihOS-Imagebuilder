@@ -1,0 +1,4 @@
+[ -n "${IPKG_INSTROOT}" ] || {
+	(. /etc/uci-defaults/60_luci-mwan3) && rm -f /etc/uci-defaults/60_luci-mwan3
+	exit 0
+}

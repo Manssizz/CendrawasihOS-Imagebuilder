@@ -1,0 +1,3 @@
+/usr/lib/lua/luci/model/cbi/watchcat/watchcat.lua
+/etc/uci-defaults/40_luci-watchcat
+/usr/lib/lua/luci/controller/watchcat.lua

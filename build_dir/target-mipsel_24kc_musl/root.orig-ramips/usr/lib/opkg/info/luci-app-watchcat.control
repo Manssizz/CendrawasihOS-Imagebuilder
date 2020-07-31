@@ -1,0 +1,8 @@
+Package: luci-app-watchcat
+Version: git-20.201.64093-23f30cf-1
+Depends: libc, watchcat
+Source: feeds/luci/applications/luci-app-watchcat
+Section: luci
+Architecture: all
+Installed-Size: 1409
+Description:  LuCI Support for Watchcat

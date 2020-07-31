@@ -1,0 +1,10 @@
+Package: libblobmsg-json
+Version: 2018-07-25-c83a84af-5
+Depends: libc, libjson-c, libubox
+Source: package/libs/libubox
+License: ISC
+Section: libs
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: mipsel_24kc
+Installed-Size: 4014
+Description:  blobmsg <-> json conversion library

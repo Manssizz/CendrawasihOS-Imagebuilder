@@ -1,0 +1,10 @@
+Package: luci-app-sqm
+Version: 1.2.4-1
+Depends: libc, lua, luci-base, sqm-scripts
+Source: feeds/packages/net/sqm-scripts
+License: GPLv2
+Section: luci
+Maintainer: Toke Høiland-Jørgensen <toke@toke.dk>
+Architecture: all
+Installed-Size: 4011
+Description:  Luci interface for the SQM scripts queue management configuration package.

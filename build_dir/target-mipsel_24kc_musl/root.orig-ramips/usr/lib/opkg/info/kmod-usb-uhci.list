@@ -1,0 +1,3 @@
+/lib/modules/4.14.187/uhci-hcd.ko
+/etc/modules-boot.d/50-usb-uhci
+/etc/modules.d/50-usb-uhci

@@ -1,0 +1,10 @@
+Package: kmod-mt76
+Version: 4.14.187+2019-03-23-a5f5605f-1
+Depends: kernel (=4.14.187-1-79da3b94c75b2e6f397b312bb3405622), kmod-mt76-core, kmod-mt76x2, kmod-mt7603
+Source: package/kernel/mt76
+License: GPLv2
+Section: kernel
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: mipsel_24kc
+Installed-Size: 104
+Description:  MediaTek MT76x2/MT7603 wireless driver (metapackage)

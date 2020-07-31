@@ -1,0 +1,4 @@
+/etc/uci-defaults/50-watchcat
+/lib/upgrade/keep.d/watchcat
+/usr/bin/watchcat.sh
+/etc/init.d/watchcat
