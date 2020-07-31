@@ -1,6 +1,5 @@
 # CendrawasihOS
-CendrawasihOS is Wireless Freedom project based Openwrt with a bit costumize. I prefer build this project for reuse closed ISP local router vendor
-I build this project based Openwrt 18. because most of my device using MT7620 SoC and i think Openwrt 18 very stable for MTK SoC.
+CendrawasihOS is Wireless Freedom project based Openwrt with a bit costumize. I prefer build this project for reuse closed ISP local router vendor. I build this project based Openwrt 18, because most of my device using MT7620 SoC and i think Openwrt 18 very stable for MTK SoC.
 
 ## Stable Version
 - Bolt BL201/BL100 (Porting from Xiaomi Mi Wifi Mini)= MT7620N + MT7612EN SoC
