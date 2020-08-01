@@ -7,7 +7,7 @@ CendrawasihOS is Wireless Freedom project based Openwrt with a bit costumize. I 
 
 ## Feature
 - [x] This source is Imagebuilder image, you can costumize whatever package do you incuding
-- [x] Build in many repositories ([Openwrt](https://github.com/openwrt/openwrt), [Lienol](https://github.com/Lienol/openwrt-package), [OUI GUI][https://github.com/zhaojh329/oui])
+- [x] Build in many repositories ([Openwrt](https://github.com/openwrt/openwrt), [Lienol](https://github.com/Lienol/openwrt-package), [OUI GUI](https://github.com/zhaojh329/oui)
 - [x] Build in U-Boot recovery adopting [U-Boot](https://github.com/u-boot/u-boot) Source
 - [x] Build in wpad, curl and ca-bundle for autologin wifi corner based wpa2 peap security and landing page login
 
@@ -22,7 +22,7 @@ $ cd CendrawasihOS
 ```
 - Edit bl201.sh with your editor
 - Add or Remove packages do you want, then save it.
-- Run script with command './bl201'
+- Run script with command ```sh./bl201```
 - Then flash it with sysupgrade or upload from luci GUI
 
 ## To Do
