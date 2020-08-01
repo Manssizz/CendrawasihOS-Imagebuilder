@@ -22,7 +22,7 @@ $ cd CendrawasihOS
 ```
 - Edit bl201.sh with your editor
 - Add or Remove packages do you want, then save it.
-- Run script with command ```sh./bl201```
+- Run script with command ```./bl201```
 - Then flash it with sysupgrade or upload from luci GUI
 
 ## To Do
